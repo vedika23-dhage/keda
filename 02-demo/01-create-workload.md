@@ -100,5 +100,7 @@ mydeploy-544d7cddcf-vr7qq   1/1     Running                      0             6
 * Describe commands to get full details of created objects
 
 `kubectl decribe deploy <object-name>`
+
 `kubectl decribe replicaset <object-name>`
+
 `kubectl describe pods`
